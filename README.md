@@ -16,13 +16,13 @@ Productivity app for habit reinforcement. Choose how often you want to take a br
 
 ## 🛠️ In development
 #### Frontend
-✅ Vite, React, TailwindCSS, and other configs
+✅ Setup Vite, React, TailwindCSS, and configs
 <br>
-⬜ Navbar
+✅ Navbar
 <br>
-⬜ Frontpage
+✅ Frontpage
 <br>
-⬜ Components
+⬜ Mail Form
 
 #### Backend
 <a href="https://github.com/lospoy/OnePunchDev">OnePunchDev repo (currently only backend)</a>
